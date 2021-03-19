@@ -1,3 +1,3 @@
 # Netflix-clone
 
-- second commit
+- first commit
